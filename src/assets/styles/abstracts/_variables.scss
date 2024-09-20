@@ -1,0 +1,41 @@
+// abstracts/_variables.scss
+$colors: (
+  white: #fff,
+  light-blue: #4152a0,
+  dark-blue: #1e1e2f,
+  light-gray: #aeaeae4e,
+  bg-input: #f9fafb,
+  text-input-focus: #474849,
+  text-title: #3c4351,
+  loader-color: #f3f3f3,
+  loader-border-top: #9c9c9c,
+  text-info: #8999b9,
+  bg-prev-button: #eceef6,
+  bg-body-gray: #f7f8fa,
+  border-input-focus: #c3c5c9,
+  border-textarea: #ececee,
+  light-purple: #8999b9,
+  dashbord-header-hr: #e2edff,
+  error-color: #eb482b,
+  gradient-light-color: #d0c9c1,
+  background-btn: #eceef6,
+  hover-color: #dedede67
+);
+
+$fonts: (
+  font-family-base: 'Peyda',
+  font-size-base: 14px,
+  font-size-small: 12px,
+  font-size-medium: 16px,
+  font-size-medium-large: 18px,
+  font-size-large: 20px,
+  font-size-xlarge: 36px,
+  font-size-xxlarge: 40px,
+  font-weight-light: 300,
+  font-weight-regular: 400,
+  font-weight-semi-bold: 600,
+  font-weight-bold: 700,
+  font-weight-semibold: 600
+);
+
+$box-shadow: #3f3e3e10 0px 4px 12px;

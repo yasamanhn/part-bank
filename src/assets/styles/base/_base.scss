@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Peyda';
+}
+
+button {
+  cursor: pointer;
+}
+
+// :root {
+//   @each $name, $color in $colors {
+//     --#{$name}: #{$color};
+//   }
+// }
